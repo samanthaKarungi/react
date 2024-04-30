@@ -1,16 +1,14 @@
-import Counter from "./Counter.jsx";
-import SetObject from "./setObject.jsx";
-
+import MyComp from "./MyComp.jsx";
 
 function App() {
 
 
   return (
     <>
-      <SetObject></SetObject>
+      <MyComp></MyComp>
     </>
   );
 
 }
 
-export default App
+export default App;
