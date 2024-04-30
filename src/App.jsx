@@ -1,5 +1,4 @@
-import Button from "./Button.jsx";
-import Mycomponent from "./MyComponent.jsx";
+import FormComponent  from "./FormComponent.jsx";
 
 
 function App() {
@@ -7,7 +6,7 @@ function App() {
 
   return (
     <>
-      <Mycomponent></Mycomponent>
+      <FormComponent></FormComponent>
     </>
   );
 
