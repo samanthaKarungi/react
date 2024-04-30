@@ -1,4 +1,5 @@
-import FormComponent  from "./FormComponent.jsx";
+import Counter from "./Counter.jsx";
+import SetObject from "./setObject.jsx";
 
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
 
   return (
     <>
-      <FormComponent></FormComponent>
+      <SetObject></SetObject>
     </>
   );
 
